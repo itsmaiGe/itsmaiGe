@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./your-image.jpg" alt="Black-and-white illustration" width="745">
+  <img src="./your-image.jpg" alt="Black-and-white illustration" width="373">
   <br><br>
   <em>i got nothing to lose</em><br>
   널 좋아한다고
